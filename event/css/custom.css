@@ -1,0 +1,127 @@
+html body {
+	color: #D92780;
+}
+
+#sub-footer {
+	background: #c4c4c4;
+	padding: 0.8em;
+}
+
+.m-text {
+	color: #FFF;
+	font-size: 14px;
+	margin-left: 10px;
+}
+
+
+.m-img {
+	position: relative;
+	top: -5px;
+}
+
+.m-table {
+	color: #666;
+}
+
+.m-socials i{
+	padding: 0.4em;
+	color: #666;
+}
+
+.m-footer {
+	color: #000;
+}
+
+
+.board1 {
+  margin-top: 7px;
+  float: right;
+  width: 1440px;
+}
+
+.boxed {
+  background: linear-gradient(to right, #F03563 , #FE6404);  opacity: 0.7;
+  width: 70%;
+  height: 200px;
+  float: right;
+  margin-right: 18%;
+  text-align: center;
+  border: 0px solid ;
+  border-radius: 20px;
+  margin-top: -330px;
+}
+
+.board2 {
+  background-color: #D8D8D8;
+  float: right;
+  margin-right: -8%;
+  width: 1300px;
+  height: 400px;
+}
+
+.board2 h3 {
+  margin-top: -44%;
+}
+
+.board3 {
+  background-color: #DEDEDE;
+  float: right;
+  margin-right: -8%;
+  width: 1300px;
+  height: 200px;
+}
+
+.board4 {
+  background: linear-gradient(to right, #F03563 , #FE6404);
+  float: right;
+  margin-right: -8%;
+  width: 1300px;
+  height: 330px;
+}
+
+.box-deals {
+
+}
+
+.box1 {
+  background: #c4c4c4;
+  opacity: 0.7;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #c4c4c4;
+  border-radius: 3px;
+  box-sizing: border-box;
+  box-shadow: 0px 10px 10px 0px;
+  margin-top: 50%;
+  float: left;
+  margin-left: 100%;
+}
+
+.board5 {
+  background-color: #DEDEDE;
+  opacity: 0.6;
+  float: right;
+  margin-right: -8%;
+  width: 1300px;
+  height: 200px;
+}
+
+.news {
+  margin-top: 5%;
+}
+
+.box1 h2 {
+  font-size: 35px;
+  color: #FFF;
+}
+
+.box1 p {
+  font-size: 20px;
+  color: #FFF;
+}
+
+.board5 p {
+  color: #333
+}
+
+
